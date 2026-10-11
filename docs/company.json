@@ -1,0 +1,17 @@
+{
+  "id": "6479639",
+  "company": "SYNEVO ROMANIA SRL",
+  "brand": "SYNEVO",
+  "status": "activ",
+  "location": [
+    "București"
+  ],
+  "website": [
+    "https://www.synevo.ro"
+  ],
+  "career": [
+    "https://www.synevo.ro/cariere"
+  ],
+  "scraperFile": "https://github.com/peviitor-scrapers/synevo-romania-python-scraper/actions/workflows/scrape.yml",
+  "ownJobUrlPrefix": "https://www.synevo.ro/cariere/"
+}

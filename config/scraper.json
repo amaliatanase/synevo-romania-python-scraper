@@ -1,0 +1,26 @@
+{
+  "userAgent": "job_seeker_ro_spider",
+  "requestTimeoutSec": 10,
+  "pageDelaySec": 1.0,
+  "retry": {
+    "maxAttempts": 5,
+    "baseDelaySec": 2.0,
+    "maxDelaySec": 60.0,
+    "retryStatus": [429, 500, 502, 503, 504]
+  },
+  "staleJobDeletion": false,
+  "manageCompany": true,
+  "defaultLocation": ["București"],
+  "defaultWorkmode": "on-site",
+  "ownJobUrlPrefix": "https://www.synevo.ro/cariere/",
+  "sources": {
+    "sitemap": "",
+    "listing": "https://www.synevo.ro/cariere",
+    "jobArchive": "https://www.synevo.ro/cariere/"
+  },
+  "selectors": {
+    "jobArticle": [".jobs-category-item", "[class*='job']", ".vacancy, .position, .listing-item"],
+    "jobTitle": ["span[x-text='sub_job.job_name']", "h1, h2, h3, h4", "[itemprop='title'], [aria-label]", "a"],
+    "jobMeta": ["", "p, .meta, [class*='deadline']"]
+  }
+}

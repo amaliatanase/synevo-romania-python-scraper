@@ -1,0 +1,97 @@
+{
+  "validatedAt": "2026-10-11T11:00:32.222942+00:00",
+  "source": "ANAF",
+  "brand": "SYNEVO",
+  "anaf": {
+    "cui": 6479639,
+    "name": "SYNEVO ROMANIA SRL",
+    "address": "MUNICIPIUL BUCUREŞTI, SECTOR 6, STR SG. CONSTANTIN GHERCU, NR.1A, CLADIREA THE BRIDGE 2, ET.1",
+    "registrationNumber": "J1994020319406",
+    "phone": "0214070700",
+    "fax": "",
+    "postalCode": "",
+    "caenCode": "8691",
+    "iban": "",
+    "registrationState": "TRANSFER(SOSIRE) din data 01.04.2025",
+    "registrationDate": "1994-12-05",
+    "fiscalAuthority": "Direcţia Generală de Administrare a Marilor Contribuabili",
+    "ownershipForm": "PROPR.PRIVATA-CAPITAL PRIVAT STRAIN",
+    "organizationForm": "PERSOANA JURIDICA",
+    "legalForm": "SOCIETATE COMERCIALĂ CU RĂSPUNDERE LIMITATĂ",
+    "vatRegistered": true,
+    "vatPeriods": [
+      {
+        "start": "2016-08-01",
+        "end": null,
+        "yearStart": "",
+        "message": ""
+      },
+      {
+        "start": "1994-11-28",
+        "end": "2010-06-30",
+        "yearStart": "",
+        "message": "Anularea înregistrarii în scopuri de TVA a fost efectuata la cererea persoanei impozabile, potrivit dispozitiilor  din Legea nr.571/2003 privind Codul fiscal, cu modificarile si completarile ulterioare"
+      }
+    ],
+    "cashBasisVat": false,
+    "cashBasisVatStart": null,
+    "cashBasisVatEnd": null,
+    "inactive": false,
+    "inactiveSince": null,
+    "reactivatedSince": null,
+    "splitVat": false,
+    "eFacturaRegistered": false,
+    "headquartersAddress": {
+      "street": "Str. Sg. Constantin Ghercu",
+      "number": "1A",
+      "locality": "Sector 6 Mun. Bucureşti",
+      "county": "MUNICIPIUL BUCUREŞTI",
+      "country": "",
+      "postalCode": ""
+    },
+    "fiscalAddress": {
+      "street": "",
+      "number": "",
+      "locality": "",
+      "county": "",
+      "country": "",
+      "postalCode": ""
+    },
+    "administrators": [],
+    "authorizedCaenCodes": [],
+    "onrcStatus": 0,
+    "onrcStatusLabel": "Funcțiune"
+  },
+  "peviitor": {
+    "id": "6479639",
+    "company": "SYNEVO ROMANIA SRL",
+    "brand": "SYNEVO",
+    "status": "activ",
+    "location": [
+      "Bucureşti Sectorul 6"
+    ],
+    "website": [
+      "https://www.synevo.ro"
+    ],
+    "lastScraped": "2026-08-07",
+    "scraperFile": "inviitor-ro-nodejs-scraper",
+    "address": [
+      "Bucureşti Sectorul 6, Bucureşti"
+    ],
+    "anafData": [
+      "{\"cif\":6479639,\"cui\":6479639,\"denumire\":\"SYNEVO ROMANIA SRL\",\"company\":\"SYNEVO ROMANIA SRL\",\"brand\":\"SYNEVO\",\"statusImpozit\":\"activ\",\"adresa\":\"Bucureşti Sectorul 6, Bucureşti\",\"localitate\":\"Bucureşti Sectorul 6\",\"website\":\"\"}"
+    ],
+    "existingJobsCount": [
+      0
+    ],
+    "_version_": 1872851036194996224,
+    "_root_": "6479639"
+  },
+  "summary": {
+    "company": "SYNEVO ROMANIA SRL",
+    "cif": "6479639",
+    "active": true,
+    "inactiveSince": null,
+    "address": "MUNICIPIUL BUCUREŞTI, SECTOR 6, STR SG. CONSTANTIN GHERCU, NR.1A, CLADIREA THE BRIDGE 2, ET.1"
+  }
+}
