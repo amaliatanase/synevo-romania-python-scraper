@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, STR SG. CONSTANTIN GHERCU, NR.1A, CLADIREA THE BRIDGE 2, ET.1 |
 | Website | [https://www.synevo.ro](https://www.synevo.ro) |
 | Careers | [https://www.synevo.ro/cariere](https://www.synevo.ro/cariere) |
-| Last Scraped | 2026-11-18 |
+| Last Scraped | 2026-11-19 |
 
-## Current Job Listings (9)
+## Current Job Listings (10)
 
-_Generated: 2026-11-18T15:05:52.850196+00:00_
+_Generated: 2026-11-19T15:15:09.931865+00:00_
 
 ### Asistent medical generalist: recoltare probe
 
@@ -68,6 +68,13 @@ _Generated: 2026-11-18T15:05:52.850196+00:00_
 ### Medic de laborator
 
 - **URL:** [https://www.synevo.ro/cariere/medic-laborator-ture/](https://www.synevo.ro/cariere/medic-laborator-ture/)
+- **Work Mode:** on-site
+- **Location:** București
+- **Status:** scraped
+
+### Medic specialist/primar Medicină de laborator
+
+- **URL:** [https://www.synevo.ro/cariere/medic-specialistprimar-medicina-de-laborator/](https://www.synevo.ro/cariere/medic-specialistprimar-medicina-de-laborator/)
 - **Work Mode:** on-site
 - **Location:** București
 - **Status:** scraped
